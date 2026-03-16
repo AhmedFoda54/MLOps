@@ -4,9 +4,6 @@
 # In[ ]:
 
 
-get_ipython().system(' pip install tensorflow')
-
-
 # In[ ]:
 
 
